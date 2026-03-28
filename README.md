@@ -47,8 +47,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BELFORTT&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-🤝 Always open to collaborations, partnerships, and cool ideas
-
-
